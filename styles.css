@@ -1,0 +1,85 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.background {
+   position: relative;
+   display: inline-block;
+}
+
+#phone {
+    position: absolute;
+    top: 13%;
+    left: 25px;
+    height: 240px;
+    width: 110px;
+}
+
+#price_tag {
+    position: absolute;
+    top: 10%;
+    height: 60px;
+    left: 55%;
+}
+
+#dnetz {
+    position: absolute;
+    top: 20px;
+    left: 15px;
+}
+
+#otelologo {
+    position: absolute;
+    bottom: 0;
+    left: 12px;
+    height: 150px;
+}
+
+#samsung {
+    position: absolute;
+    left: 15px;
+    top: 54%;
+    height: 47px;
+}
+
+#aliente {
+    position: absolute;
+    left: 15px;
+    top: 61%;
+    height: 27px;
+}
+
+#gb {
+    position: absolute;
+    top: 64%;
+    left: 15px;
+}
+
+#btn {
+    height: 25px;
+    width: 130px;
+    background-color: #e95e35;
+    border: none;
+    border-radius: 5px;
+    position: absolute;
+    left: 20px;
+    top: 72%;
+    /* background-image: url('images/ctaText.png');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat; */
+}
+
+#cta {
+    position: absolute;
+    left: 40px;
+    top: 72.3%;
+}
+
+#arrow {
+    position: absolute;
+    left: 125px;
+    top: 72.3%;
+}
